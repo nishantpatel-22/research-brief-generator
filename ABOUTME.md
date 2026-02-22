@@ -1,24 +1,19 @@
 # About Me
 
 ## Name
+Nishant Patel
 
-[Your Name Here]
+## About
 
-## Resume Summary
+I am a [student / developer] who is passionate about building things
+and learning by doing. This project is a good example of how I work —
+I start with a problem, figure out the right tools, debug issues as
+they come up, and don't stop until it's working and live.
 
-[Your name] is a full-stack software engineer with experience building web applications from end to end. Comfortable working across the stack — from designing REST APIs with Node.js and Express, to building responsive UIs with React, to deploying applications on cloud platforms.
+Through building this project I learned about full-stack architecture,
+REST APIs, LLM integration, content extraction, database design, and
+deploying applications on Render and Vercel.
 
-Experienced with:
-- JavaScript/TypeScript, React, Node.js
-- RESTful API design
-- SQL and NoSQL databases
-- Integrating third-party APIs and LLMs
-- Git, GitHub, CI/CD basics
+I am currently learning web development and looking for opportunities
+where I can contribute, grow, and keep building.
 
-Currently seeking [full-time / internship / freelance] opportunities in software engineering.
-
----
-
-**Contact:** [email@example.com]  
-**GitHub:** [github.com/yourusername]  
-**LinkedIn:** [linkedin.com/in/yourprofile]
