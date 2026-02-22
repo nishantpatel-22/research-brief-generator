@@ -17,3 +17,6 @@ deploying applications on Render and Vercel.
 I am currently learning web development and looking for opportunities
 where I can contribute, grow, and keep building.
 
+## Resume
+[Download Resume (PDF)](./Nishant_Patel_Resume.pdf)
+
